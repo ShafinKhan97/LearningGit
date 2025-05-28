@@ -3,5 +3,6 @@ public class Multiply {
         int a = 2;
         int b = 3;
         System.out.println("The product is : " + a * b);
+        System.out.println("updating multiply file");
     }
 }
