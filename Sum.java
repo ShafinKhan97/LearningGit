@@ -3,5 +3,7 @@ public class Sum {
         int a = 2;
         int b = 3;
         System.out.println("The sum is : " + a + b);
+        System.out.println("Added sum message to sum.java" );
+
     }
 }
